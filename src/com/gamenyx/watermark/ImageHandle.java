@@ -29,5 +29,6 @@ public class ImageHandle {
 			return false;
 		}
     }    
+public void naoFazNada(){}   
 	
 }
