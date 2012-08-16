@@ -18,6 +18,11 @@ import android.os.Bundle;
 import android.provider.MediaStore;
 
 public class WaterMarkActivity extends Activity {
+
+
+	public void nadaCabelo(){
+	}
+
 	/** Called when the activity is first created. */
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
