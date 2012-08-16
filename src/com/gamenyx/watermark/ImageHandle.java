@@ -28,7 +28,8 @@ public class ImageHandle {
 			e.printStackTrace();
 			return false;
 		}
-    }    
+    } 
+
 public void naoFazNada(){}   
 	
 }
