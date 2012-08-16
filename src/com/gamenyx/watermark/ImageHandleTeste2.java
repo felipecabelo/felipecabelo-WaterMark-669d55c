@@ -8,6 +8,11 @@ import android.graphics.Canvas;
 
 public class ImageHandleTeste2 {
 
+	public void metodoVazio(){
+		//Outro método que não faz nada
+		
+	}
+
     public static Bitmap addWaterMark(Bitmap source, Bitmap watermark)
     {
     	Bitmap bmOverlay = Bitmap.createBitmap(source.getWidth(), source.getHeight(), source.getConfig());
