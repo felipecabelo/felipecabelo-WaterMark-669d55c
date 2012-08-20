@@ -31,5 +31,5 @@ public class ImageHandle {
     } 
 
 public void naoFazNada(){}   
-	String s = "nada";
+	String s = "nada cabelo";
 }
