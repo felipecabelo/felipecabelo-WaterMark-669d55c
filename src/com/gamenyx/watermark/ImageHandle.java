@@ -30,6 +30,14 @@ public class ImageHandle {
 		}
     } 
 
-public void naoFazNada(){}   
-	String s = "nada manoel";
+	public void naoFazNada(){
+		String s = "nada manoel";
+	}
+	
+	public void TesteTortoise(){
+	}
 }
+
+}
+
+
